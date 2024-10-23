@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-gilbert-topete-95miza0xr.vercel.app/
+https://deploy-this-repo-gilbert-topete.vercel.app/
 
 
